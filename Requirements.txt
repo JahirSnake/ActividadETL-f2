@@ -1,0 +1,10 @@
+Requirements
+- Python 3.x
+- SQL Server DB
+- Jupyter
+- openpyxl
+- pandas
+- pyodbc
+- sqlalchemy
+- matpltlib
+- numpy
