@@ -10,7 +10,6 @@ This is a Python project that uses libraries for data manipulation, analysis, an
 - openpyxl
 - pandas
 - pyodbc
-- sqlalchemy
 - matpltlib
 - numpy
 

@@ -5,6 +5,5 @@ Requirements
 - openpyxl
 - pandas
 - pyodbc
-- sqlalchemy
 - matpltlib
 - numpy
